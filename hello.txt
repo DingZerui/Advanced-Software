@@ -1,4 +1,7 @@
 #include<stdio.h>
+void conflict_master(){
+	printf("master edit");
+}
 void fun_newBranch(){
 	printf("edit by new branch");
 }
