@@ -1,6 +1,10 @@
 #include<stdio.h>
+<<<<<<< HEAD
 void conflict_new_branch(){
 	printf("new branch edit");
+void conflict_master(){
+	printf("master edit");
+>>>>>>> master
 }
 void fun_newBranch(){
 	printf("edit by new branch");
