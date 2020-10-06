@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+void fun_newBranch(){
+	printf("edit by new branch");
+}
 void fun_1(){
 	printf("this is fun_1");
 }
