@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+void new_function(){
+	printf("this is a new function");
+}
 void fun_1(){
 	printf("this is fun_1");
 }
